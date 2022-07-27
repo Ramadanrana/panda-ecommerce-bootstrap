@@ -1,0 +1,35 @@
+.bg-panda-info {
+    background-color: #fceae8;
+}
+
+.bg-panda-warning {
+    background-color: #ff3a88;
+}
+
+.btn-panda {
+    background-color: #ff3a88;
+}
+
+.head {
+    background-color: cadetblue;
+}
+
+.head:hover {
+    background-color: lightcoral;
+}
+
+.bag {
+    background-color: mediumpurple;
+}
+
+.bag:hover {
+    background-color: lightcoral;
+}
+
+.shoe {
+    background-color: darkcyan;
+}
+
+.shoe:hover {
+    background-color: lightcoral;
+}
